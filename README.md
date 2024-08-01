@@ -126,7 +126,6 @@ colcon build --symlink-install --packages-select ros1_bridge --cmake-force-confi
 source /opt/ros/noetic/setup.bash
 source ~/catkin_ws/devel/setup.bash
 roslaunch robot_arm_pkg check_motors.launch
-####
 ```
 #### 
 ![roboarm2](https://github.com/user-attachments/assets/935f2c73-1360-4b54-bd8e-f43241fcab12)
