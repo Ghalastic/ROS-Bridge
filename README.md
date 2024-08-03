@@ -156,7 +156,7 @@ source ~/catkin_ws/devel/setup.bash
 source ~/ros2_ws/install/setup.bash
 ```
 ####
-- Change the directory to be the workspace of the bridge, and source the package:
+- Change the directory to be the workspace of the bridge:
 ####
 ```bash
 cd ros1_bridge_ws/
